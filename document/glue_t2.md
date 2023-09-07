@@ -132,9 +132,6 @@ GroupBy, Sum, Avg 등 BI 또는 리포트에 맞는 형태로 데이터를 변�
 
 > 💡 Glue Job 생성하고 Detail 속성들은 위에 작업했었던 Glue와 동일하거나 Worker 수만 조절하여 진행 따로 작성하지 않겠습니다. 
 
-`코드 변경`
-→ Output Path
-
 1. 계열사별 + 년 + 월 + 일 + 시간 + 요일 + 매출 건수 + 매출 금액
     - 이름 : {blee}_jb_de_enhancement_t2_salesbydatetime_s2s
     - `변경이 필요한 부분`
