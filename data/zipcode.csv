@@ -1,0 +1,474 @@
+zipcode,province_city,province_city_eng,city_county,city_county_eng,eup_myeon,eup_myeon_eng,road_nm,road_nm_eng,short_zipcode
+56445,전라북도,Jeollabuk-do,고창군,Gochang-gun,고수면,Gosu-myeon,인성로,Inseong-ro,564
+54025,전라북도,Jeollabuk-do,군산시,Gunsan-si,,,중정길,Jungjeong-gil,540
+54168,전라북도,Jeollabuk-do,군산시,Gunsan-si,,,거사길,Geosa-gil,541
+54364,전라북도,Jeollabuk-do,김제시,Gimje-si,,,만경로,Mangyeong-ro,543
+54401,전라북도,Jeollabuk-do,김제시,Gimje-si,,,양지길,Yangji-gil,544
+55725,전라북도,Jeollabuk-do,남원시,Namwon-si,,,중갈치길,Junggalchi-gil,557
+55801,전라북도,Jeollabuk-do,남원시,Namwon-si,,,쑥고개로,Ssukgogae-ro,558
+55512,전라북도,Jeollabuk-do,무주군,Muju-gun,무주읍,Muju-eup,평촌길,Pyeongchon-gil,555
+56300,전라북도,Jeollabuk-do,부안군,Buan-gun,계화면,Gyehwa-myeon,양지길,Yangji-gil,563
+56013,전라북도,Jeollabuk-do,순창군,Sunchang-gun,구림면,Gurim-myeon,동정자길,Dongjeongja-gil,560
+55302,전라북도,Jeollabuk-do,완주군,Wanju-gun,경천면,Gyeongcheon-myeon,경가천길,Gyeonggacheon-gil,553
+54601,전라북도,Jeollabuk-do,익산시,Iksan-si,,,평동로9길,Pyeongdong-ro 9-gil,546
+54594,전라북도,Jeollabuk-do,익산시,Iksan-si,,,익산대로16길,Iksan-daero 16-gil,545
+55939,전라북도,Jeollabuk-do,임실군,Imsil-gun,강진면,Gangjin-myeon,강운로,Gangun-ro,559
+55626,전라북도,Jeollabuk-do,장수군,Jangsu-gun,계남면,Gyenam-myeon,가곡평지길,Gagokpyeongji-gil,556
+54800,전라북도,Jeollabuk-do,전주시,"Deokjin-gu, Jeonju-si",,,신유강길,Sinyugang-gil,548
+55025,전라북도,Jeollabuk-do,전주시,"Deokjin-gu, Jeonju-si",,,가소길,Gaso-gil,550
+54907,전라북도,Jeollabuk-do,전주시,"Deokjin-gu, Jeonju-si",,,건지2길,Geonji 2-gil,549
+55151,전라북도,Jeollabuk-do,전주시,"Deokjin-gu, Jeonju-si",,,화암2길,Hwaam 2-gil,551
+56111,전라북도,Jeollabuk-do,정읍시,Jeongeup-si,감곡면,Gamgok-myeon,관봉1길,Gwanbong 1-gil,561
+56213,전라북도,Jeollabuk-do,정읍시,Jeongeup-si,고부면,Gobu-myeon,만수길,Mansu-gil,562
+55446,전라북도,Jeollabuk-do,진안군,Jinan-gun,동향면,Donghyang-myeon,진성로,Jinseong-ro,554
+63564,제주특별자치도,Jeju-do,서귀포시,Seogwipo-si,,,선반로,Seonban-ro,635
+63621,제주특별자치도,Jeju-do,서귀포시,Seogwipo-si,남원읍,Namwon-eup,태위로,Taewi-ro,636
+63283,제주특별자치도,Jeju-do,제주시,Jeju-si,,,사라봉3길,Sarabong 3-gil,632
+63307,제주특별자치도,Jeju-do,제주시,Jeju-si,,,동광로,Donggwang-ro,633
+63166,제주특별자치도,Jeju-do,제주시,Jeju-si,,,중앙로4길,Jungang-ro 4-gil,631
+63074,제주특별자치도,Jeju-do,제주시,Jeju-si,,,일주서로,Iljuseo-ro,630
+25627,강원특별자치도,Gangwon-do,강릉시,Gangneung-si,강동면,Gangdong-myeon,모전제방길,Mojeonjebang-gil,256
+25556,강원특별자치도,Gangwon-do,강릉시,Gangneung-si,,,창해로,Changhae-ro,255
+25460,강원특별자치도,Gangwon-do,강릉시,Gangneung-si,,,창해로,Changhae-ro,254
+24728,강원특별자치도,Gangwon-do,고성군,Goseong-gun,간성읍,Ganseong-eup,교촌길,Gyochon-gil,247
+25703,강원특별자치도,Gangwon-do,동해시,Donghae-si,,,두암골길,Duamgol-gil,257
+25813,강원특별자치도,Gangwon-do,동해시,Donghae-si,,,오일장2길,Oiljang 2-gil,258
+25953,강원특별자치도,Gangwon-do,삼척시,Samcheok-si,가곡면,Gagok-myeon,가곡천로,Gagokcheon-ro,259
+24863,강원특별자치도,Gangwon-do,속초시,Sokcho-si,,,청대로351번길,Cheongdae-ro 351beon-gil,248
+24900,강원특별자치도,Gangwon-do,속초시,Sokcho-si,,,해오름로,Haeoreum-ro,249
+24552,강원특별자치도,Gangwon-do,양구군,Yanggu-gun,국토정중앙면,Guktojeongjungang-myeon,남동로,Namdong-ro,245
+25006,강원특별자치도,Gangwon-do,양양군,Yangyang-gun,강현면,Ganghyeon-myeon,화채봉길,Hwachaebong-gil,250
+26245,강원특별자치도,Gangwon-do,영월군,Yeongwol-gun,김삿갓면,Gimsatgat-myeon,강변로,Gangbyeon-ro,262
+26333,강원특별자치도,Gangwon-do,원주시,Wonju-si,,,봉장길,Bongjang-gil,263
+26448,강원특별자치도,Gangwon-do,원주시,Wonju-si,,,송림길,Songnim-gil,264
+26505,강원특별자치도,Gangwon-do,원주시,Wonju-si,,,치악로,Chiak-ro,265
+24656,강원특별자치도,Gangwon-do,인제군,Inje-gun,기린면,Girin-myeon,아래둔덕길,Araedundeok-gil,246
+26155,강원특별자치도,Gangwon-do,정선군,Jeongseon-gun,고한읍,Gohan-eup,고토일길,Gotoil-gil,261
+24046,강원특별자치도,Gangwon-do,철원군,Cheorwon-gun,갈말읍,Galmal-eup,북원로166번길,Bugwon-ro 166beon-gil,240
+24262,강원특별자치도,Gangwon-do,춘천시,Chuncheon-si,,,교동길,Gyodong-gil,242
+24359,강원특별자치도,Gangwon-do,춘천시,Chuncheon-si,,,공지로,Gongji-ro,243
+24428,강원특별자치도,Gangwon-do,춘천시,Chuncheon-si,,,옛경춘로,Yetgyeongchun-ro,244
+26053,강원특별자치도,Gangwon-do,태백시,Taebaek-si,,,금천1길,Geumcheon 1-gil,260
+25339,강원특별자치도,Gangwon-do,평창군,Pyeongchang-gun,대관령면,Daegwallyeong-myeon,비안길,Bian-gil,253
+25105,강원특별자치도,Gangwon-do,홍천군,Hongcheon-gun,남면,Nam-myeon,응아지길,Eungaji-gil,251
+24139,강원특별자치도,Gangwon-do,화천군,Hwacheon-gun,간동면,Gandong-myeon,먼내길,Meonnae-gil,241
+25259,강원특별자치도,Gangwon-do,횡성군,Hoengseong-gun,갑천면,Gapcheon-myeon,태기로구방5길,Taegi-ro gubang 5-gil,252
+59222,전라남도,Jeollanam-do,강진군,Gangjin-gun,강진읍,Gangjin-eup,원교촌길,Wongyochon-gil,592
+59532,전라남도,Jeollanam-do,고흥군,Goheung-gun,고흥읍,Goheung-eup,사동길,Sadong-gil,595
+57516,전라남도,Jeollanam-do,곡성군,Gokseong-gun,겸면,Gyeom-myeon,심정길,Simjeong-gil,575
+57736,전라남도,Jeollanam-do,광양시,Gwangyang-si,광양읍,Gwangyang-eup,매천로,Maecheon-ro,577
+57803,전라남도,Jeollanam-do,광양시,Gwangyang-si,,,폭포사랑길,Pokposarang-gil,578
+57628,전라남도,Jeollanam-do,구례군,Gurye-gun,간전면,Ganjeon-myeon,간문대평1길,Ganmundaepyeong 1-gil,576
+58263,전라남도,Jeollanam-do,나주시,Naju-si,,,예향로,Yehyang-ro,582
+58300,전라남도,Jeollanam-do,나주시,Naju-si,공산면,Gongsan-myeon,자미로,Jami-ro,583
+57393,전라남도,Jeollanam-do,담양군,Damyang-gun,가사문학면,Gasamunhak-myeon,청계길,Cheonggye-gil,573
+58754,전라남도,Jeollanam-do,목포시,Mokpo-si,,,해안로173번길,Haean-ro 173beon-gil,587
+58600,전라남도,Jeollanam-do,목포시,Mokpo-si,,,대양산단로125번길,Daeyangsandan-ro 125beon-gil,586
+58534,전라남도,Jeollanam-do,무안군,Muan-gun,망운면,Mangun-myeon,동목장길,Dongmokjang-gil,585
+59412,전라남도,Jeollanam-do,보성군,Boseong-gun,겸백면,Gyeombaek-myeon,금곡길,Geumgok-gil,594
+57923,전라남도,Jeollanam-do,순천시,Suncheon-si,,,중앙로,Jungang-ro,579
+58026,전라남도,Jeollanam-do,순천시,Suncheon-si,,,교량1길,Gyoryang 1-gil,580
+58850,전라남도,Jeollanam-do,신안군,Sinan-gun,도초면,Docho-myeon,난말길,Nanmal-gil,588
+59766,전라남도,Jeollanam-do,여수시,Yeosu-si,,,대경도길,Daegyeongdo-gil,597
+59618,전라남도,Jeollanam-do,여수시,Yeosu-si,,,상암로,Sangam-ro,596
+57061,전라남도,Jeollanam-do,영광군,Yeonggwang-gun,군남면,Gunnam-myeon,남양길1길,Namyang-gil 1-gil,570
+58408,전라남도,Jeollanam-do,영암군,Yeongam-gun,군서면,Gunseo-myeon,정자등길,Jeongjadeung-gil,584
+59128,전라남도,Jeollanam-do,완도군,Wando-gun,고금면,Gogeum-myeon,가교길,Gagyo-gil,591
+57249,전라남도,Jeollanam-do,장성군,Jangseong-gun,남면,Nam-myeon,황토단감로,Hwangtodangam-ro,572
+59356,전라남도,Jeollanam-do,장흥군,Jangheung-gun,관산읍,Gwansan-eup,고마장환길,Gomajanghwan-gil,593
+58909,전라남도,Jeollanam-do,진도군,Jindo-gun,고군면,Gogun-myeon,오일시2길,Oilsi 2-gil,589
+57128,전라남도,Jeollanam-do,함평군,Hampyeong-gun,나산면,Nasan-myeon,구산원선길,Gusanwonseon-gil,571
+59017,전라남도,Jeollanam-do,해남군,Haenam-gun,계곡면,Gyegok-myeon,가학길,Gahak-gil,590
+58153,전라남도,Jeollanam-do,화순군,Hwasun-gun,능주면,Neungju-myeon,죽수길,Juksu-gil,581
+32824,충청남도,Chungcheongnam-do,계룡시,Gyeryong-si,,,장안1길,Jangan 1-gil,328
+32598,충청남도,Chungcheongnam-do,공주시,Gongju-si,,,검상고개길,Geomsanggogae-gil,325
+32600,충청남도,Chungcheongnam-do,공주시,Gongju-si,,,검상안길,Geomsangan-gil,326
+32721,충청남도,Chungcheongnam-do,금산군,Geumsan-gun,군북면,Gunbuk-myeon,시두물2길,Sidumul 2-gil,327
+33019,충청남도,Chungcheongnam-do,논산시,Nonsan-si,가야곡면,Gayagok-myeon,가야로22번길,Gaya-ro 22beon-gil,330
+32938,충청남도,Chungcheongnam-do,논산시,Nonsan-si,강경읍,Ganggyeong-eup,계백로208번길,Gyebaek-ro 208beon-gil,329
+31790,충청남도,Chungcheongnam-do,당진시,Dangjin-si,고대면,Godae-myeon,안쟁이길,Anjaengi-gil,317
+31807,충청남도,Chungcheongnam-do,당진시,Dangjin-si,면천면,Myeoncheon-myeon,한티길,Hanti-gil,318
+33472,충청남도,Chungcheongnam-do,보령시,Boryeong-si,,,궁촌1길,Gungchon 1-gil,334
+33500,충청남도,Chungcheongnam-do,보령시,Boryeong-si,남포면,Nampo-myeon,뒷골길,Dwitgol-gil,335
+33189,충청남도,Chungcheongnam-do,부여군,Buyeo-gun,구룡면,Guryong-myeon,흥수로453번길,Heungsu-ro 453beon-gil,331
+33208,충청남도,Chungcheongnam-do,부여군,Buyeo-gun,남면,Nam-myeon,팔충로,Palchung-ro,332
+31963,충청남도,Chungcheongnam-do,서산시,Seosan-si,,,충의로,Chungui-ro,319
+32027,충청남도,Chungcheongnam-do,서산시,Seosan-si,고북면,Gobuk-myeon,도간길,Dogan-gil,320
+33626,충청남도,Chungcheongnam-do,서천군,Seocheon-gun,기산면,Gisan-myeon,서원로226번길,Seowon-ro 226beon-gil,336
+31519,충청남도,Chungcheongnam-do,아산시,Asan-si,,,청운로,Cheongun-ro,315
+31476,충청남도,Chungcheongnam-do,아산시,Asan-si,,,온천대로1770번길,Oncheon-daero 1770beon-gil,314
+32402,충청남도,Chungcheongnam-do,예산군,Yesan-gun,고덕면,Godeok-myeon,구만중뜸길,Gumanjungtteum-gil,324
+31220,충청남도,Chungcheongnam-do,천안시,"Dongnam-gu, Cheonan-si",광덕면,Gwangdeok-myeon,안심대전원길,Ansimdaejeonwon-gil,312
+31069,충청남도,Chungcheongnam-do,천안시,"Dongnam-gu, Cheonan-si",,,유량로,Yuryang-ro,310
+31194,충청남도,Chungcheongnam-do,천안시,"Dongnam-gu, Cheonan-si",,,충절로,Chungjeol-ro,311
+33309,충청남도,Chungcheongnam-do,청양군,Cheongyang-gun,남양면,Namyang-myeon,구용길,Guyong-gil,333
+32172,충청남도,Chungcheongnam-do,태안군,Taean-gun,고남면,Gonam-myeon,옷점길,Otjeom-gil,321
+32201,충청남도,Chungcheongnam-do,홍성군,Hongseong-gun,갈산면,Galsan-myeon,수덕사로317번길,Sudeoksa-ro 317beon-gil,322
+12410,경기도,Gyeonggi-do,가평군,Gapyeong-gun,가평읍,Gapyeong-eup,당목가일길,Dangmokgail-gil,124
+10441,경기도,Gyeonggi-do,고양시,"Deogyang-gu, Goyang-si",,,강매로,Gangmae-ro,104
+10540,경기도,Gyeonggi-do,고양시,"Deogyang-gu, Goyang-si",,,해포길,Haepo-gil,105
+10273,경기도,Gyeonggi-do,고양시,"Deogyang-gu, Goyang-si",,,읍내로,Eumnae-ro,102
+10314,경기도,Gyeonggi-do,고양시,"Ilsandong-gu, Goyang-si",,,성현로,Seonghyeon-ro,103
+13840,경기도,Gyeonggi-do,과천시,Gwacheon-si,,,김영철길,Gimyeongcheol-gil,138
+14339,경기도,Gyeonggi-do,광명시,Gwangmyeong-si,,,서독로,Seodok-ro,143
+14268,경기도,Gyeonggi-do,광명시,Gwangmyeong-si,,,오리로963번길,Ori-ro 963beon-gil,142
+12752,경기도,Gyeonggi-do,광주시,Gwangju-si,,,과수원길25번길,Gwasuwon-gil 25beon-gil,127
+12812,경기도,Gyeonggi-do,광주시,Gwangju-si,곤지암읍,Gonjiam-eup,경충대로,Gyeongchung-daero,128
+11902,경기도,Gyeonggi-do,구리시,Guri-si,,,경춘북로,Gyeongchunbuk-ro,119
+15811,경기도,Gyeonggi-do,군포시,Gunpo-si,,,당산로192번길,Dangsan-ro 192beon-gil,158
+10103,경기도,Gyeonggi-do,김포시,Gimpo-si,,,옹주물로,Ongjumul-ro,101
+10091,경기도,Gyeonggi-do,김포시,Gimpo-si,,,옹주물로,Ongjumul-ro,100
+12240,경기도,Gyeonggi-do,남양주시,Namyangju-si,,,석실로650번길,Seoksil-ro 650beon-gil,122
+12091,경기도,Gyeonggi-do,남양주시,Namyangju-si,,,순화궁로,Sunhwagung-ro,120
+12105,경기도,Gyeonggi-do,남양주시,Namyangju-si,,,두물로11번길,Dumul-ro 11beon-gil,121
+11309,경기도,Gyeonggi-do,동두천시,Dongducheon-si,,,못골로134번길,Motgol-ro 134beon-gil,113
+14775,경기도,Gyeonggi-do,부천시,Bucheon-si,,,범안로186번나길,Beoman-ro 186beonna-gil,147
+14403,경기도,Gyeonggi-do,부천시,Bucheon-si,,,역곡로,Yeokgok-ro,144
+14682,경기도,Gyeonggi-do,부천시,Bucheon-si,,,경인로,Gyeongin-ro,146
+14519,경기도,Gyeonggi-do,부천시,Bucheon-si,,,옥산로251번길,Oksan-ro 251beon-gil,145
+13630,경기도,Gyeonggi-do,성남시,"Bundang-gu, Seongnam-si",,,미금일로,Migeumil-ro,136
+13550,경기도,Gyeonggi-do,성남시,"Bundang-gu, Seongnam-si",,,대왕판교로,Daewangpangyo-ro,135
+13487,경기도,Gyeonggi-do,성남시,"Bundang-gu, Seongnam-si",,,판교로228번길,Pangyo-ro 228beon-gil,134
+13381,경기도,Gyeonggi-do,성남시,"Bundang-gu, Seongnam-si",,,양현로375번길,Yanghyeon-ro 375beon-gil,133
+13105,경기도,Gyeonggi-do,성남시,"Sujeong-gu, Seongnam-si",,,고등로,Godeung-ro,131
+13259,경기도,Gyeonggi-do,성남시,"Sujeong-gu, Seongnam-si",,,공원로,Gongwon-ro,132
+16649,경기도,Gyeonggi-do,수원시,"Gwonseon-gu, Suwon-si",,,고산로16번길,Gosan-ro 16beon-gil,166
+16406,경기도,Gyeonggi-do,수원시,"Gwonseon-gu, Suwon-si",,,구운로85번길,Guun-ro 85beon-gil,164
+16371,경기도,Gyeonggi-do,수원시,"Gwonseon-gu, Suwon-si",,,서부로,Seobu-ro,163
+16569,경기도,Gyeonggi-do,수원시,"Gwonseon-gu, Suwon-si",,,세지로112번길,Seji-ro 112beon-gil,165
+16714,경기도,Gyeonggi-do,수원시,"Yeongtong-gu, Suwon-si",,,덕영대로1368번길,Deogyeong-daero 1368beon-gil,167
+16226,경기도,Gyeonggi-do,수원시,"Yeongtong-gu, Suwon-si",,,대학1로8번길,Daehak 1-ro 8beon-gil,162
+15068,경기도,Gyeonggi-do,시흥시,Siheung-si,,,군자로481번길,Gunja-ro 481beon-gil,150
+14924,경기도,Gyeonggi-do,시흥시,Siheung-si,,,계수로,Gyesu-ro,149
+15121,경기도,Gyeonggi-do,시흥시,Siheung-si,,,장현천로,Janghyeoncheon-ro,151
+15261,경기도,Gyeonggi-do,안산시,"Danwon-gu, Ansan-si",,,예술대학로3길,YesuldaehaK-ro 3-gil,152
+15465,경기도,Gyeonggi-do,안산시,"Danwon-gu, Ansan-si",,,이삭3길,Isak 3-gil,154
+15352,경기도,Gyeonggi-do,안산시,"Danwon-gu, Ansan-si",,,고잔로,Gojan-ro,153
+15649,경기도,Gyeonggi-do,안산시,"Danwon-gu, Ansan-si",,,수영목길,Suyeongmok-gil,156
+15598,경기도,Gyeonggi-do,안산시,"Danwon-gu, Ansan-si",,,목내로122번길,Mongnae-ro 122beon-gil,155
+17585,경기도,Gyeonggi-do,안성시,Anseong-si,,,보개원삼로,Bogaewonsam-ro,175
+17604,경기도,Gyeonggi-do,안성시,Anseong-si,미양면,Miyang-myeon,양변길,Yangbyeon-gil,176
+13928,경기도,Gyeonggi-do,안양시,"Dongan-gu, Anyang-si",,,동편로68번길,Dongpyeon-ro 68beon-gil,139
+14055,경기도,Gyeonggi-do,안양시,"Dongan-gu, Anyang-si",,,시민대로327번길,Simin-daero 327beon-gil,140
+14103,경기도,Gyeonggi-do,안양시,"Dongan-gu, Anyang-si",,,귀인로,Gwiin-ro,141
+11457,경기도,Gyeonggi-do,양주시,Yangju-si,,,고원2다길,Gowon 2da-gil,114
+11503,경기도,Gyeonggi-do,양주시,Yangju-si,광적면,Gwangjeok-myeon,부흥로,Buheung-ro,115
+12572,경기도,Gyeonggi-do,양평군,Yangpyeong-gun,강상면,Gangsang-myeon,효자고갯길,Hyojagogaet-gil,125
+12663,경기도,Gyeonggi-do,여주시,Yeoju-si,가남읍,Ganam-eup,건장2길,Geonjang 2-gil,126
+11008,경기도,Gyeonggi-do,연천군,Yeoncheon-gun,군남면,Gunnam-myeon,남계로,Namgye-ro,110
+18126,경기도,Gyeonggi-do,오산시,Osan-si,,,수목원로88번길,Sumogwon-ro 88beon-gil,181
+17101,경기도,Gyeonggi-do,용인시,"Giheung-gu, Yongin-si",,,공세로,Gongse-ro,171
+17086,경기도,Gyeonggi-do,용인시,"Giheung-gu, Yongin-si",,,고매로,Gomae-ro,170
+16979,경기도,Gyeonggi-do,용인시,"Giheung-gu, Yongin-si",,,강남로,Gangnam-ro,169
+16895,경기도,Gyeonggi-do,용인시,"Giheung-gu, Yongin-si",,,동백8로113번길,Dongbaek 8-ro 113beon-gil,168
+16077,경기도,Gyeonggi-do,의왕시,Uiwang-si,,,고고리길,Gogori-gil,160
+16103,경기도,Gyeonggi-do,의왕시,Uiwang-si,,,장안남북로,Jangannambuk-ro,161
+11676,경기도,Gyeonggi-do,의정부시,Uijeongbu-si,,,신촌로17번길,Sinchon-ro 17beon-gil,116
+11749,경기도,Gyeonggi-do,의정부시,Uijeongbu-si,,,호국로1351번길,Hoguk-ro 1351beon-gil,117
+11801,경기도,Gyeonggi-do,의정부시,Uijeongbu-si,,,고산로65번길,Gosan-ro 65beon-gil,118
+17361,경기도,Gyeonggi-do,이천시,Icheon-si,,,영창로300번길,Yeongchang-ro 300beon-gil,173
+17400,경기도,Gyeonggi-do,이천시,Icheon-si,,,단월로60번길,Danwol-ro 60beon-gil,174
+10848,경기도,Gyeonggi-do,파주시,Paju-si,,,평화로,Pyeonghwa-ro,108
+10953,경기도,Gyeonggi-do,파주시,Paju-si,광탄면,Gwangtan-myeon,기산로,Gisan-ro,109
+17743,경기도,Gyeonggi-do,평택시,Pyeongtaek-si,,,가재길,Gajae-gil,177
+18017,경기도,Gyeonggi-do,평택시,Pyeongtaek-si,,,함박산2길,Hambaksan 2-gil,180
+17924,경기도,Gyeonggi-do,평택시,Pyeongtaek-si,고덕면,Godeok-myeon,효학길,Hyohak-gil,179
+17821,경기도,Gyeonggi-do,평택시,Pyeongtaek-si,고덕면,Godeok-myeon,서동대로,Seodong-daero,178
+11168,경기도,Gyeonggi-do,포천시,Pocheon-si,가산면,Gasan-myeon,시우동2길,Siudong 2-gil,111
+12991,경기도,Gyeonggi-do,하남시,Hanam-si,,,서하남로41번길,Seohanam-ro 41beon-gil,129
+13005,경기도,Gyeonggi-do,하남시,Hanam-si,,,감일백제로,Gamilbaekje-ro,130
+18511,경기도,Gyeonggi-do,화성시,Hwaseong-si,,,금곡로249번길,Geumgok-ro 249beon-gil,185
+18385,경기도,Gyeonggi-do,화성시,Hwaseong-si,,,효행로,Hyohaeng-ro,183
+18421,경기도,Gyeonggi-do,화성시,Hwaseong-si,,,효행로,Hyohaeng-ro,184
+18258,경기도,Gyeonggi-do,화성시,Hwaseong-si,남양읍,Namyang-eup,남양시장로,Namyangsijang-ro,182
+18632,경기도,Gyeonggi-do,화성시,Hwaseong-si,양감면,Yanggam-myeon,솔미마을길80번길,Solmimaeul-gil 80beon-gil,186
+44782,울산광역시,Ulsan,남구,Nam-gu,,,신여천로,Sinyeocheon-ro,447
+44691,울산광역시,Ulsan,남구,Nam-gu,,,중앙로166번길,Jungang-ro 166beon-gil,446
+44007,울산광역시,Ulsan,동구,Dong-gu,,,미포4길,Mipo 4-gil,440
+44114,울산광역시,Ulsan,동구,Dong-gu,,,방어진순환도로,Bangeojinsunhwando-ro,441
+44211,울산광역시,Ulsan,북구,Buk-gu,,,농서로,Nongseo-ro,442
+44915,울산광역시,Ulsan,울주군,Ulju-gun,두동면,Dudong-myeon,당산길,Dangsan-gil,449
+45015,울산광역시,Ulsan,울주군,Ulju-gun,서생면,Seosaeng-myeon,해맞이로,Haemaji-ro,450
+44428,울산광역시,Ulsan,중구,Jung-gu,,,종가로,Jongga-ro,444
+44538,울산광역시,Ulsan,중구,Jung-gu,,,종가로,Jongga-ro,445
+53286,경상남도,Gyeongsangnam-do,거제시,Geoje-si,거제면,Geoje-myeon,기성로2길,Giseong-ro 2-gil,532
+53336,경상남도,Gyeongsangnam-do,거제시,Geoje-si,,,고현항2로,Gohyeonhang 2-ro,533
+50117,경상남도,Gyeongsangnam-do,거창군,Geochang-gun,가북면,Gabuk-myeon,용암로,Yongam-ro,501
+52902,경상남도,Gyeongsangnam-do,고성군,Goseong-gun,개천면,Gaecheon-myeon,가천1길,Gacheon 1-gil,529
+50941,경상남도,Gyeongsangnam-do,김해시,Gimhae-si,,,강동로,Gangdong-ro,509
+51009,경상남도,Gyeongsangnam-do,김해시,Gimhae-si,,,강동로,Gangdong-ro,510
+50883,경상남도,Gyeongsangnam-do,김해시,Gimhae-si,,,김해대로1902번길,Gimhae-daero 1902beon-gil,508
+52405,경상남도,Gyeongsangnam-do,남해군,Namhae-gun,고현면,Gohyeon-myeon,남서대로2980번길,Namseo-daero 2980beon-gil,524
+50445,경상남도,Gyeongsangnam-do,밀양시,Miryang-si,,,중앙로,Jungang-ro,504
+52501,경상남도,Gyeongsangnam-do,사천시,Sacheon-si,곤명면,Gonmyeong-myeon,금성1길,Geumseong 1-gil,525
+52215,경상남도,Gyeongsangnam-do,산청군,Sancheong-gun,금서면,Geumseo-myeon,친환경로2605번길,Chinhwangyeong-ro 2605beon-gil,522
+50593,경상남도,Gyeongsangnam-do,양산시,Yangsan-si,,,교동1길,Gyodong 1-gil,505
+50623,경상남도,Gyeongsangnam-do,양산시,Yangsan-si,,,옥곡6길,Okgok 6-gil,506
+52137,경상남도,Gyeongsangnam-do,의령군,Uiryeong-gun,가례면,Garye-myeon,의병로1길,Uibyeong-ro 1-gil,521
+52822,경상남도,Gyeongsangnam-do,진주시,Jinju-si,,,가좌길36번길,Gajwa-gil 36beon-gil,528
+52709,경상남도,Gyeongsangnam-do,진주시,Jinju-si,,,진주대로,Jinju-daero,527
+52683,경상남도,Gyeongsangnam-do,진주시,Jinju-si,,,비봉로,Bibong-ro,526
+50341,경상남도,Gyeongsangnam-do,창녕군,Changnyeong-gun,계성면,Gyeseong-myeon,계산우천길,Gyesanucheon-gil,503
+51755,경상남도,Gyeongsangnam-do,창원시,"Masanhappo-gu, Changwon-si",,,가포로,Gapo-ro,517
+51276,경상남도,Gyeongsangnam-do,창원시,"Masanhappo-gu, Changwon-si",,,교방동2길,Gyobangdong 2-gil,512
+51337,경상남도,Gyeongsangnam-do,창원시,"Masanhappo-gu, Changwon-si",,,합포동7길,Happodong 7-gil,513
+51492,경상남도,Gyeongsangnam-do,창원시,"Seongsan-gu, Changwon-si",,,대정로35번길,Daejeong-ro 35beon-gil,514
+51510,경상남도,Gyeongsangnam-do,창원시,"Seongsan-gu, Changwon-si",,,가음정로23번길,Gaeumjeong-ro 23beon-gil,515
+51148,경상남도,Gyeongsangnam-do,창원시,"Seongsan-gu, Changwon-si",,,창원천로,Changwoncheon-ro,511
+51602,경상남도,Gyeongsangnam-do,창원시,"Jinhae-gu, Changwon-si",,,가주로,Gaju-ro,516
+53012,경상남도,Gyeongsangnam-do,통영시,Tongyeong-si,광도면,Gwangdo-myeon,안정로,Anjeong-ro,530
+53103,경상남도,Gyeongsangnam-do,통영시,Tongyeong-si,사량면,Saryang-myeon,상도일주로,Sangdoilju-ro,531
+52340,경상남도,Gyeongsangnam-do,하동군,Hadong-gun,고전면,Gojeon-myeon,고하길,Goha-gil,523
+52035,경상남도,Gyeongsangnam-do,함안군,Haman-gun,가야읍,Gaya-eup,왕궁2길,Wanggung 2-gil,520
+50055,경상남도,Gyeongsangnam-do,함양군,Hamyang-gun,마천면,Macheon-myeon,가채길,Gachae-gil,500
+50202,경상남도,Gyeongsangnam-do,합천군,Hapcheon-gun,가야면,Gaya-myeon,가천길,Gacheon-gil,502
+06325,서울특별시,Seoul,강남구,Gangnam-gu,,,선릉로10길,Seolleung-ro 10-gil,063
+06114,서울특별시,Seoul,강남구,Gangnam-gu,,,학동로2길,Hakdong-ro 2-gil,061
+06044,서울특별시,Seoul,강남구,Gangnam-gu,,,학동로3길,Hakdong-ro 3-gil,060
+06209,서울특별시,Seoul,강남구,Gangnam-gu,,,삼성로61길,Samseong-ro 61-gil,062
+05200,서울특별시,Seoul,강동구,Gangdong-gu,,,가래여울길,Garaeyeoul-gil,052
+05414,서울특별시,Seoul,강동구,Gangdong-gu,,,아리수로93다길,Arisu-ro 93da-gil,054
+05355,서울특별시,Seoul,강동구,Gangdong-gu,,,천호대로173길,Cheonho-daero 173-gil,053
+01180,서울특별시,Seoul,강북구,Gangbuk-gu,,,솔매로,Solmae-ro,011
+01216,서울특별시,Seoul,강북구,Gangbuk-gu,,,오현로4길,Ohyeon-ro 4-gil,012
+01057,서울특별시,Seoul,강북구,Gangbuk-gu,,,한천로132길,Hancheon-ro 132-gil,010
+07526,서울특별시,Seoul,강서구,Gangseo-gu,,,양천로57길,Yangcheon-ro 57-gil,075
+07800,서울특별시,Seoul,강서구,Gangseo-gu,,,공항대로,Gonghang-daero,078
+07789,서울특별시,Seoul,강서구,Gangseo-gu,,,양천로,Yangcheon-ro,077
+07625,서울특별시,Seoul,강서구,Gangseo-gu,,,방화대로7가길,Banghwa-daero 7ga-gil,076
+08803,서울특별시,Seoul,관악구,Gwanak-gu,,,남부순환로256다길,Nambusunhwan-ro 256da-gil,088
+08735,서울특별시,Seoul,관악구,Gwanak-gu,,,관악로24길,Gwanak-ro 24-gil,087
+04968,서울특별시,Seoul,광진구,Gwangjin-gu,,,아차산로75길,Achasan-ro 75-gil,049
+05036,서울특별시,Seoul,광진구,Gwangjin-gu,,,구의로4길,Guui-ro 4-gil,050
+05117,서울특별시,Seoul,광진구,Gwangjin-gu,,,구의강변로,Guuigangbyeon-ro,051
+08321,서울특별시,Seoul,구로구,Guro-gu,,,구로동로7가길,Gurodong-ro 7ga-gil,083
+08251,서울특별시,Seoul,구로구,Guro-gu,,,고척로21가길,Gocheok-ro 21ga-gil,082
+08508,서울특별시,Seoul,금천구,Geumcheon-gu,,,벚꽃로46나길,Beotkkot-ro 46na-gil,085
+08601,서울특별시,Seoul,금천구,Geumcheon-gu,,,벚꽃로,Beotkkot-ro,086
+01844,서울특별시,Seoul,노원구,Nowon-gu,,,동일로186길,Dongil-ro 186-gil,018
+01796,서울특별시,Seoul,노원구,Nowon-gu,,,화랑로60길,Hwarang-ro 60-gil,017
+01695,서울특별시,Seoul,노원구,Nowon-gu,,,노해로,Nohae-ro,016
+01913,서울특별시,Seoul,노원구,Nowon-gu,,,마들로,Madeul-ro,019
+01313,서울특별시,Seoul,도봉구,Dobong-gu,,,도봉로169길,Dobong-ro 169-gil,013
+01407,서울특별시,Seoul,도봉구,Dobong-gu,,,방학로,Banghak-ro,014
+02602,서울특별시,Seoul,동대문구,Dongdaemun-gu,,,사가정로2길,Sagajeong-ro 2-gil,026
+02593,서울특별시,Seoul,동대문구,Dongdaemun-gu,,,황물로,Hwangmul-ro,025
+02448,서울특별시,Seoul,동대문구,Dongdaemun-gu,,,천장산로9길,Cheonjangsan-ro 9-gil,024
+06925,서울특별시,Seoul,동작구,Dongjak-gu,,,장승배기로22길,Jangseungbaegi-ro 22-gil,069
+07055,서울특별시,Seoul,동작구,Dongjak-gu,,,여의대방로24마길,Yeouidaebang-ro 24ma-gil,070
+04183,서울특별시,Seoul,마포구,Mapo-gu,,,만리재로14길,Mallijae-ro 14-gil,041
+04211,서울특별시,Seoul,마포구,Mapo-gu,,,마포대로12길,Mapo-daero 12-gil,042
+04087,서울특별시,Seoul,마포구,Mapo-gu,,,토정로,Tojeong-ro,040
+03993,서울특별시,Seoul,마포구,Mapo-gu,,,월드컵북로6길,World Cup buk-ro 6-gil,039
+03693,서울특별시,Seoul,서대문구,Seodaemun-gu,,,가재울로2안길,Gajaeul-ro 2an-gil,036
+03710,서울특별시,Seoul,서대문구,Seodaemun-gu,,,모래내로15길,Moraenae-ro 15-gil,037
+06801,서울특별시,Seoul,서초구,Seocho-gu,,,능안말3길,Neunganmal 3-gil,068
+06794,서울특별시,Seoul,서초구,Seocho-gu,,,샘마을1길,Saemmaeul 1-gil,067
+06533,서울특별시,Seoul,서초구,Seocho-gu,,,신반포로,Sinbanpo-ro,065
+06687,서울특별시,Seoul,서초구,Seocho-gu,,,효령로,Hyoryeong-ro,066
+04718,서울특별시,Seoul,성동구,Seongdong-gu,,,금호로,Geumho-ro,047
+04802,서울특별시,Seoul,성동구,Seongdong-gu,,,가람길,Garam-gil,048
+02720,서울특별시,Seoul,성북구,Seongbuk-gu,,,서경로6길,Seogyeong-ro 6-gil,027
+02817,서울특별시,Seoul,성북구,Seongbuk-gu,,,동소문로,Dongsomun-ro,028
+05769,서울특별시,Seoul,송파구,Songpa-gu,,,오금로44가길,Ogeum-ro 44ga-gil,057
+05825,서울특별시,Seoul,송파구,Songpa-gu,,,송이로23길,Songi-ro 23-gil,058
+05699,서울특별시,Seoul,송파구,Songpa-gu,,,송파대로,Songpa-daero,056
+05549,서울특별시,Seoul,송파구,Songpa-gu,,,올림픽로32길,Olympic-ro 32-gil,055
+08000,서울특별시,Seoul,양천구,Yangcheon-gu,,,목동동로,Mokdongdong-ro,080
+07974,서울특별시,Seoul,양천구,Yangcheon-gu,,,목동중앙본로28길,Mokdongjungangbon-ro 28-gil,079
+08104,서울특별시,Seoul,양천구,Yangcheon-gu,,,목동남로2길,Mokdongnam-ro 2-gil,081
+07226,서울특별시,Seoul,영등포구,Yeongdeungpo-gu,,,버드나루로23길,Beodeunaru-ro 23-gil,072
+07402,서울특별시,Seoul,영등포구,Yeongdeungpo-gu,,,가마산로46길,Gamasan-ro 46-gil,074
+07379,서울특별시,Seoul,영등포구,Yeongdeungpo-gu,,,도신로10길,Dosin-ro 10-gil,073
+04322,서울특별시,Seoul,용산구,Yongsan-gu,,,한강대로77길,Hangang-daero 77-gil,043
+04407,서울특별시,Seoul,용산구,Yongsan-gu,,,우사단로6길,Usadan-ro 6-gil,044
+03335,서울특별시,Seoul,은평구,Eunpyeong-gu,,,연서로19길,Yeonseo-ro 19-gil,033
+03428,서울특별시,Seoul,은평구,Eunpyeong-gu,,,갈현로7길,Galhyeon-ro 7-gil,034
+03505,서울특별시,Seoul,은평구,Eunpyeong-gu,,,증산로1길,Jeungsan-ro 1-gil,035
+03052,서울특별시,Seoul,종로구,Jongno-gu,,,북촌로11길,Bukchon-ro 11-gil,030
+03144,서울특별시,Seoul,종로구,Jongno-gu,,,우정국로,Ujeongguk-ro,031
+04561,서울특별시,Seoul,중구,Jung-gu,,,동호로34길,Dongho-ro 34-gil,045
+04614,서울특별시,Seoul,중구,Jung-gu,,,퇴계로68길,Toegye-ro 68-gil,046
+02173,서울특별시,Seoul,중랑구,Jungnang-gu,,,봉우재로,Bongujae-ro,021
+02057,서울특별시,Seoul,중랑구,Jungnang-gu,,,양원역로14길,Yangwonyeok-ro 14-gil,020
+02256,서울특별시,Seoul,중랑구,Jungnang-gu,,,용마산로36길,Yongmasan-ro 36-gil,022
+62463,광주광역시,Gwangju,광산구,Gwangsan-gu,,,임곡로,Imgok-ro,624
+62394,광주광역시,Gwangju,광산구,Gwangsan-gu,,,고봉로,Gobong-ro,623
+62207,광주광역시,Gwangju,광산구,Gwangsan-gu,,,임곡연동길,Imgogyeondong-gil,622
+61639,광주광역시,Gwangju,남구,Nam-gu,,,천변좌로370번길,Cheonbyeonjwa-ro 370beon-gil,616
+61763,광주광역시,Gwangju,남구,Nam-gu,,,구소길,Guso-gil,617
+61414,광주광역시,Gwangju,동구,Dong-gu,,,동계로,Donggye-ro,614
+61513,광주광역시,Gwangju,동구,Dong-gu,,,육판서길,Yukpanseo-gil,615
+61139,광주광역시,Gwangju,북구,Buk-gu,,,각화대로,Gakhwa-daero,611
+61241,광주광역시,Gwangju,북구,Buk-gu,,,경열로186번길,Gyeongyeol-ro 186beon-gil,612
+61006,광주광역시,Gwangju,북구,Buk-gu,,,앰코로,Amkor-ro,610
+61917,광주광역시,Gwangju,서구,Seo-gu,,,무진대로,Mujin-daero,619
+62009,광주광역시,Gwangju,서구,Seo-gu,,,마륵벽진길,Mareukbyeokjin-gil,620
+28006,충청북도,Chungcheongbuk-do,괴산군,Goesan-gun,감물면,Gammul-myeon,광전길,Gwangjeon-gil,280
+27021,충청북도,Chungcheongbuk-do,단양군,Danyang-gun,가곡면,Gagok-myeon,가대1길,Gadae 1-gil,270
+28905,충청북도,Chungcheongbuk-do,보은군,Boeun-gun,내북면,Naebuk-myeon,창리길,Changni-gil,289
+29122,충청북도,Chungcheongbuk-do,영동군,Yeongdong-gun,매곡면,Maegok-myeon,해평동1길,Haepyeongdong 1-gil,291
+29004,충청북도,Chungcheongbuk-do,옥천군,Okcheon-gun,군북면,Gunbuk-myeon,성왕로,Seongwang-ro,290
+27600,충청북도,Chungcheongbuk-do,음성군,Eumseong-gun,감곡면,Gamgok-myeon,대학길190번길,Daehak-gil 190beon-gil,276
+27731,충청북도,Chungcheongbuk-do,음성군,Eumseong-gun,금왕읍,Geumwang-eup,리노산단1길,Rinosandan 1-gil,277
+27205,충청북도,Chungcheongbuk-do,제천시,Jecheon-si,,,강저로,Gangjeo-ro,272
+27192,충청북도,Chungcheongbuk-do,제천시,Jecheon-si,,,청풍호로10길,Cheongpungho-ro 10-gil,271
+27904,충청북도,Chungcheongbuk-do,증평군,Jeungpyeong-gun,도안면,Doan-myeon,상모산길,Sangmosan-gil,279
+27802,충청북도,Chungcheongbuk-do,진천군,Jincheon-gun,광혜원면,Gwanghyewon-myeon,화랑5길,Hwarang 5-gil,278
+28204,충청북도,Chungcheongbuk-do,청주시,"Sangdang-gu, Cheongju-si",가덕면,Gadeok-myeon,계산2길,Gyesan 2-gil,282
+28191,충청북도,Chungcheongbuk-do,청주시,"Sangdang-gu, Cheongju-si",가덕면,Gadeok-myeon,노동두산길,Nodongdusan-gil,281
+28734,충청북도,Chungcheongbuk-do,청주시,"Sangdang-gu, Cheongju-si",,,쇠내로,Soenae-ro,287
+28531,충청북도,Chungcheongbuk-do,청주시,"Sangdang-gu, Cheongju-si",,,상당로,Sangdang-ro,285
+28806,충청북도,Chungcheongbuk-do,청주시,"Sangdang-gu, Cheongju-si",남일면,Namil-myeon,단재로,Danjae-ro,288
+28311,충청북도,Chungcheongbuk-do,청주시,"Sangdang-gu, Cheongju-si",,,명암로197번길,Myeongam-ro 197beon-gil,283
+28608,충청북도,Chungcheongbuk-do,청주시,"Seowon-gu, Cheongju-si",,,복대로,Bokdae-ro,286
+28484,충청북도,Chungcheongbuk-do,청주시,"Cheongwon-gu, Cheongju-si",,,교서로,Gyoseo-ro,284
+27479,충청북도,Chungcheongbuk-do,충주시,Chungju-si,,,대가주1길,Daegaju 1-gil,274
+27365,충청북도,Chungcheongbuk-do,충주시,Chungju-si,,,대가미9길,Daegami 9-gil,273
+27501,충청북도,Chungcheongbuk-do,충주시,Chungju-si,수안보면,Suanbo-myeon,미륵점말2길,Mireukjeommal 2-gil,275
+38540,경상북도,Gyeongsangbuk-do,경산시,Gyeongsan-si,,,화랑로8길,Hwarang-ro 8-gil,385
+38615,경상북도,Gyeongsangbuk-do,경산시,Gyeongsan-si,,,남매공원로2길,Nammaegongwon-ro 2-gil,386
+38482,경상북도,Gyeongsangbuk-do,경산시,Gyeongsan-si,압량읍,Amnyang-eup,노선길,Noseon-gil,384
+38125,경상북도,Gyeongsangbuk-do,경주시,Gyeongju-si,감포읍,Gampo-eup,감포로10길,Gampo-ro 10-gil,381
+38033,경상북도,Gyeongsangbuk-do,경주시,Gyeongju-si,강동면,Gangdong-myeon,천강로,Cheongang-ro,380
+38200,경상북도,Gyeongsangbuk-do,경주시,Gyeongju-si,,,시동로,Sidong-ro,382
+40147,경상북도,Gyeongsangbuk-do,고령군,Goryeong-gun,개진면,Gaejin-myeon,개경포로,Gaegyeongpo-ro,401
+39176,경상북도,Gyeongsangbuk-do,구미시,Gumi-si,,,거양8길,Geoyang 8-gil,391
+39248,경상북도,Gyeongsangbuk-do,구미시,Gumi-si,,,수출대로3길,Suchul-daero 3-gil,392
+39375,경상북도,Gyeongsangbuk-do,구미시,Gumi-si,,,1공단로,1gongdan-ro,393
+39442,경상북도,Gyeongsangbuk-do,구미시,Gumi-si,,,인동북길,Indongbuk-gil,394
+39510,경상북도,Gyeongsangbuk-do,김천시,Gimcheon-si,감문면,Gammun-myeon,광덕1길,Gwangdeok 1-gil,395
+39681,경상북도,Gyeongsangbuk-do,김천시,Gimcheon-si,감천면,Gamcheon-myeon,광기2길,Gwanggi 2-gil,396
+36997,경상북도,Gyeongsangbuk-do,문경시,Mungyeong-si,가은읍,Gaeun-eup,갈전1길,Galjeon 1-gil,369
+37001,경상북도,Gyeongsangbuk-do,문경시,Mungyeong-si,농암면,Nongam-myeon,갈동길,Galdong-gil,370
+36256,경상북도,Gyeongsangbuk-do,봉화군,Bonghwa-gun,명호면,Myeongho-myeon,고감1길,Gogam 1-gil,362
+37223,경상북도,Gyeongsangbuk-do,상주시,Sangju-si,,,가장오갈미길,Gajangogalmi-gil,372
+37159,경상북도,Gyeongsangbuk-do,상주시,Sangju-si,,,계산1길,Gyesan 1-gil,371
+40060,경상북도,Gyeongsangbuk-do,성주군,Seongju-gun,가천면,Gacheon-myeon,금봉3길,Geumbong 3-gil,400
+36697,경상북도,Gyeongsangbuk-do,안동시,Andong-si,,,중앙시장길,Jungangsijang-gil,366
+36736,경상북도,Gyeongsangbuk-do,안동시,Andong-si,길안면,Giran-myeon,고란길,Goran-gil,367
+36454,경상북도,Gyeongsangbuk-do,영덕군,Yeongdeok-gun,강구면,Ganggu-myeon,강영로,Gangyeong-ro,364
+36562,경상북도,Gyeongsangbuk-do,영양군,Yeongyang-gun,석보면,Seokbo-myeon,하논실1길,Hanonsil 1-gil,365
+36135,경상북도,Gyeongsangbuk-do,영주시,Yeongju-si,,,대학로142번길,Daehak-ro 142beon-gil,361
+36056,경상북도,Gyeongsangbuk-do,영주시,Yeongju-si,,,신재로12번길,Sinjae-ro 12beon-gil,360
+38902,경상북도,Gyeongsangbuk-do,영천시,Yeongcheon-si,고경면,Gogyeong-myeon,가수길,Gasu-gil,389
+38817,경상북도,Gyeongsangbuk-do,영천시,Yeongcheon-si,고경면,Gogyeong-myeon,방천길,Bangcheon-gil,388
+36811,경상북도,Gyeongsangbuk-do,예천군,Yecheon-gun,감천면,Gamcheon-myeon,관현2길,Gwanhyeon 2-gil,368
+40209,경상북도,Gyeongsangbuk-do,울릉군,Ulleung-gun,북면,Buk-myeon,나리1길,Nari 1-gil,402
+36336,경상북도,Gyeongsangbuk-do,울진군,Uljin-gun,근남면,Geunnam-myeon,뒷들길,Dwitdeul-gil,363
+37358,경상북도,Gyeongsangbuk-do,의성군,Uiseong-gun,가음면,Gaeum-myeon,산성가음로,Sanseonggaeum-ro,373
+38321,경상북도,Gyeongsangbuk-do,청도군,Cheongdo-gun,각남면,Gangnam-myeon,구곡길,Gugok-gil,383
+37442,경상북도,Gyeongsangbuk-do,청송군,Cheongsong-gun,부남면,Bunam-myeon,청송로,Cheongsong-ro,374
+39853,경상북도,Gyeongsangbuk-do,칠곡군,Chilgok-gun,가산면,Gasan-myeon,북창전원길,Bukchangjeonwon-gil,398
+39913,경상북도,Gyeongsangbuk-do,칠곡군,Chilgok-gun,기산면,Gisan-myeon,각산1길,Gaksan 1-gil,399
+37859,경상북도,Gyeongsangbuk-do,포항시,"Nam-gu, Pohang-si",,,동해안로6213번길,Donghaean-ro 6213beon-gil,378
+37933,경상북도,Gyeongsangbuk-do,포항시,"Nam-gu, Pohang-si",구룡포읍,Guryongpo-eup,호미로,Homi-ro,379
+37781,경상북도,Gyeongsangbuk-do,포항시,"Nam-gu, Pohang-si",,,양학천로,Yanghakcheon-ro,377
+37685,경상북도,Gyeongsangbuk-do,포항시,"Nam-gu, Pohang-si",,,대이로,Daei-ro,376
+37525,경상북도,Gyeongsangbuk-do,포항시,"Buk-gu, Pohang-si",기계면,Gigye-myeon,새마을로,Saemaeul-ro,375
+43121,대구광역시,Daegu,대구광역시,Gunwi-gun,군위읍,Gunwi-eup,광현길,Gwanghyeon-gil,431
+42454,대구광역시,Daegu,대구광역시,Nam-gu,,,양지남길,Yangjinam-gil,424
+42501,대구광역시,Daegu,대구광역시,Nam-gu,,,앞산순환로,Apsansunhwan-ro,425
+42704,대구광역시,Daegu,대구광역시,Dalseo-gu,,,성서서로36안길,Seongseoseo-ro 36an-gil,427
+42697,대구광역시,Daegu,대구광역시,Dalseo-gu,,,성서로68길,Seongseo-ro 68-gil,426
+42842,대구광역시,Daegu,대구광역시,Dalseo-gu,,,갈밭로,Galbat-ro,428
+42938,대구광역시,Daegu,대구광역시,Dalseong-gun,가창면,Gachang-myeon,가창로176길,Gachang-ro 176-gil,429
+43008,대구광역시,Daegu,대구광역시,Dalseong-gun,구지면,Guji-myeon,국가산단동로42길,Gukgasandandong-ro 42-gil,430
+41065,대구광역시,Daegu,대구광역시,Dong-gu,,,경안로,Gyeongan-ro,410
+41127,대구광역시,Daegu,대구광역시,Dong-gu,,,반야월북로,Banyawolbuk-ro,411
+41201,대구광역시,Daegu,대구광역시,Dong-gu,,,송라로25길,Songna-ro 25-gil,412
+41507,대구광역시,Daegu,대구광역시,Buk-gu,,,검단북로27길,Geomdanbuk-ro 27-gil,415
+41444,대구광역시,Daegu,대구광역시,Buk-gu,,,관음동로,Gwaneumdong-ro,414
+41851,대구광역시,Daegu,대구광역시,Seo-gu,,,서대구로7길,Seodaegu-ro 7-gil,418
+41715,대구광역시,Daegu,대구광역시,Seo-gu,,,팔달로,Paldal-ro,417
+42260,대구광역시,Daegu,대구광역시,Suseong-gu,,,고모로26길,Gomo-ro 26-gil,422
+42174,대구광역시,Daegu,대구광역시,Suseong-gu,,,들안로2길,Deuran-ro 2-gil,421
+42036,대구광역시,Daegu,대구광역시,Suseong-gu,,,만촌로,Manchon-ro,420
+41932,대구광역시,Daegu,대구광역시,Jung-gu,,,서성로,Seoseong-ro,419
+23024,인천광역시,Incheon,인천광역시,Ganghwa-gun,강화읍,Ganghwa-eup,갑룡길,Gamnyong-gil,230
+21001,인천광역시,Incheon,인천광역시,Gyeyang-gu,,,드림로674번길,Dream-ro 674beon-gil,210
+21111,인천광역시,Incheon,인천광역시,Gyeyang-gu,,,계양대로,Gyeyang-daero,211
+21504,인천광역시,Incheon,인천광역시,Namdong-gu,,,벽돌말로19번길,Byeokdolmal-ro 19beon-gil,215
+21692,인천광역시,Incheon,인천광역시,Namdong-gu,,,앵고개로556번길,Aenggogae-ro 556beon-gil,216
+21700,인천광역시,Incheon,인천광역시,Namdong-gu,,,남동대로,Namdong-daero,217
+22564,인천광역시,Incheon,인천광역시,Dong-gu,,,금곡로36번길,Geumgok-ro 36beon-gil,225
+22243,인천광역시,Incheon,인천광역시,Michuhol-gu,,,경원대로640번길,Gyeongwon-daero 640beon-gil,222
+22181,인천광역시,Incheon,인천광역시,Michuhol-gu,,,경인북길,Gyeonginbuk-gil,221
+21317,인천광역시,Incheon,인천광역시,Bupyeong-gu,,,새갈로28번길,Saegal-ro 28beon-gil,213
+21417,인천광역시,Incheon,인천광역시,Bupyeong-gu,,,무네미로,Munemi-ro,214
+22731,인천광역시,Incheon,인천광역시,Seo-gu,,,염곡로498번안길,Yeomgok-ro 498beonan-gil,227
+22883,인천광역시,Incheon,인천광역시,Seo-gu,,,염곡로464번길,Yeomgok-ro 464beon-gil,228
+22697,인천광역시,Incheon,인천광역시,Seo-gu,,,도요지로197번길,Doyoji-ro 197beon-gil,226
+21944,인천광역시,Incheon,인천광역시,Yeonsu-gu,,,솔밭로,Solbat-ro,219
+22002,인천광역시,Incheon,인천광역시,Yeonsu-gu,,,해돋이로,Haedoji-ro,220
+23105,인천광역시,Incheon,인천광역시,Ongjin-gun,대청면,Daecheong-myeon,대청북로,Daecheongbuk-ro,231
+22318,인천광역시,Incheon,인천광역시,Jung-gu,,,참외전로152번길,Chamoejeon-ro 152beon-gil,223
+22408,인천광역시,Incheon,인천광역시,Jung-gu,,,영종대로,Yeongjong-daero,224
+46706,부산광역시,Busan,부산광역시,Gangseo-gu,,,제도로,Jedo-ro,467
+46230,부산광역시,Busan,부산광역시,Geumjeong-gu,,,두실로7번길,Dusil-ro 7beon-gil,462
+46331,부산광역시,Busan,부산광역시,Geumjeong-gu,,,공단서로,Gongdanseo-ro,463
+46057,부산광역시,Busan,부산광역시,Gijang-gun,기장읍,Gijang-eup,차성로417번길,Chaseong-ro 417beon-gil,460
+48553,부산광역시,Busan,부산광역시,Nam-gu,,,신선로,Sinseon-ro,485
+48491,부산광역시,Busan,부산광역시,Nam-gu,,,석포로,Seokpo-ro,484
+48752,부산광역시,Busan,부산광역시,Dong-gu,,,성남이로56번길,Seongnami-ro 56beon-gil,487
+48812,부산광역시,Busan,부산광역시,Dong-gu,,,초량상로63번가길,Choryangsang-ro 63beonga-gil,488
+47882,부산광역시,Busan,부산광역시,Dongnae-gu,,,반송로,Bansong-ro,478
+47902,부산광역시,Busan,부산광역시,Dongnae-gu,,,온천천로399번길,Oncheoncheon-ro 399beon-gil,479
+47747,부산광역시,Busan,부산광역시,Dongnae-gu,,,명륜로202번길,Myeongnyun-ro 202beon-gil,477
+47331,부산광역시,Busan,부산광역시,Busanjin-gu,,,대학로,Daehak-ro,473
+47271,부산광역시,Busan,부산광역시,Busanjin-gu,,,가야대로587번길,Gaya-daero 587beon-gil,472
+47175,부산광역시,Busan,부산광역시,Busanjin-gu,,,백양대로320번길,Baegyang-daero 320beon-gil,471
+46650,부산광역시,Busan,부산광역시,Buk-gu,,,백양대로1015번길,Baegyang-daero 1015beon-gil,466
+46598,부산광역시,Busan,부산광역시,Buk-gu,,,팽나무로24번길,Paengnamu-ro 24beon-gil,465
+46985,부산광역시,Busan,부산광역시,Sasang-gu,,,학감대로,Hakgam-daero,469
+47027,부산광역시,Busan,부산광역시,Sasang-gu,,,가야대로,Gaya-daero,470
+49364,부산광역시,Busan,부산광역시,Saha-gu,,,감내2로,Gamnae 2-ro,493
+49450,부산광역시,Busan,부산광역시,Saha-gu,,,감천로,Gamcheon-ro,494
+49512,부산광역시,Busan,부산광역시,Saha-gu,,,두송로,Dusong-ro,495
+49256,부산광역시,Busan,부산광역시,Seo-gu,,,충무대로241번길,Chungmu-daero 241beon-gil,492
+48241,부산광역시,Busan,부산광역시,Suyeong-gu,,,연수로364번길,Yeonsu-ro 364beon-gil,482
+48303,부산광역시,Busan,부산광역시,Suyeong-gu,,,광안해변로,Gwanganhaebyeon-ro,483
+47548,부산광역시,Busan,부산광역시,Yeonje-gu,,,거제대로108번길,Geoje-daero 108beon-gil,475
+47614,부산광역시,Busan,부산광역시,Yeonje-gu,,,금련로24번길,Geumnyeon-ro 24beon-gil,476
+49054,부산광역시,Busan,부산광역시,Yeongdo-gu,,,남항로,Namhang-ro,490
+49113,부산광역시,Busan,부산광역시,Yeongdo-gu,,,절영로,Jeoryeong-ro,491
+48954,부산광역시,Busan,부산광역시,Jung-gu,,,광복로,Gwangbok-ro,489
+48020,부산광역시,Busan,부산광역시,Haeundae-gu,,,아랫반송로59번길,Araetbansong-ro 59beon-gil,480
+48100,부산광역시,Busan,부산광역시,Haeundae-gu,,,동백로,Dongbaek-ro,481
+44782,울산광역시,Ulsan,울산광역시,Nam-gu,,,신여천로,Sinyeocheon-ro,447
+44691,울산광역시,Ulsan,울산광역시,Nam-gu,,,중앙로166번길,Jungang-ro 166beon-gil,446
+44007,울산광역시,Ulsan,울산광역시,Dong-gu,,,미포4길,Mipo 4-gil,440
+44114,울산광역시,Ulsan,울산광역시,Dong-gu,,,방어진순환도로,Bangeojinsunhwando-ro,441
+44211,울산광역시,Ulsan,울산광역시,Buk-gu,,,농서로,Nongseo-ro,442
+44915,울산광역시,Ulsan,울산광역시,Ulju-gun,두동면,Dudong-myeon,당산길,Dangsan-gil,449
+45015,울산광역시,Ulsan,울산광역시,Ulju-gun,서생면,Seosaeng-myeon,해맞이로,Haemaji-ro,450
+44428,울산광역시,Ulsan,울산광역시,Jung-gu,,,종가로,Jongga-ro,444
+44538,울산광역시,Ulsan,울산광역시,Jung-gu,,,종가로,Jongga-ro,445
+62463,광주광역시,Gwangju,광주광역시,Gwangsan-gu,,,임곡로,Imgok-ro,624
+62394,광주광역시,Gwangju,광주광역시,Gwangsan-gu,,,고봉로,Gobong-ro,623
+62207,광주광역시,Gwangju,광주광역시,Gwangsan-gu,,,임곡연동길,Imgogyeondong-gil,622
+61639,광주광역시,Gwangju,광주광역시,Nam-gu,,,천변좌로370번길,Cheonbyeonjwa-ro 370beon-gil,616
+61763,광주광역시,Gwangju,광주광역시,Nam-gu,,,구소길,Guso-gil,617
+61414,광주광역시,Gwangju,광주광역시,Dong-gu,,,동계로,Donggye-ro,614
+61513,광주광역시,Gwangju,광주광역시,Dong-gu,,,육판서길,Yukpanseo-gil,615
+61139,광주광역시,Gwangju,광주광역시,Buk-gu,,,각화대로,Gakhwa-daero,611
+61241,광주광역시,Gwangju,광주광역시,Buk-gu,,,경열로186번길,Gyeongyeol-ro 186beon-gil,612
+61006,광주광역시,Gwangju,광주광역시,Buk-gu,,,앰코로,Amkor-ro,610
+61917,광주광역시,Gwangju,광주광역시,Seo-gu,,,무진대로,Mujin-daero,619
+62009,광주광역시,Gwangju,광주광역시,Seo-gu,,,마륵벽진길,Mareukbyeokjin-gil,620
+34316,대전광역시,Daejeon,대전광역시,Daedeok-gu,,,대청호수로,Daecheonghosu-ro,343
+34406,대전광역시,Daejeon,대전광역시,Daedeok-gu,,,동춘당로,Dongchundang-ro,344
+34588,대전광역시,Daejeon,대전광역시,Dong-gu,,,우암로,Uam-ro,345
+34602,대전광역시,Daejeon,대전광역시,Dong-gu,,,계족로,Gyejok-ro,346
+34708,대전광역시,Daejeon,대전광역시,Dong-gu,,,물류로,Mullyu-ro,347
+35390,대전광역시,Daejeon,대전광역시,Seo-gu,,,가수원중로65번길,Gasuwonjung-ro 65beon-gil,353
+35296,대전광역시,Daejeon,대전광역시,Seo-gu,,,도산로321번길,Dosan-ro 321beon-gil,352
+35416,대전광역시,Daejeon,대전광역시,Seo-gu,,,괴곡길,Goegok-gil,354
+34131,대전광역시,Daejeon,대전광역시,Yuseong-gu,,,대덕대로,Daedeok-daero,341
+34209,대전광역시,Daejeon,대전광역시,Yuseong-gu,,,학하서로10번길,Hakhaseo-ro 10beon-gil,342
+34018,대전광역시,Daejeon,대전광역시,Yuseong-gu,,,관들2길,Gwandeul 2-gil,340
+35072,대전광역시,Daejeon,대전광역시,Jung-gu,,,운남로293번길,Unnam-ro 293beon-gil,350
+34946,대전광역시,Daejeon,대전광역시,Jung-gu,,,계룡로929번길,Gyeryong-ro 929beon-gil,349
+34838,대전광역시,Daejeon,대전광역시,Jung-gu,,,중앙로,Jungang-ro,348
+30065,세종특별자치시,Sejong-si,세종특별자치시,,,,라온로,Raon-ro,300
+30101,세종특별자치시,Sejong-si,세종특별자치시,,,,만남로,Mannam-ro,301
