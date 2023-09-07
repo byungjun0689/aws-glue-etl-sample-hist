@@ -1,0 +1,238 @@
+{
+    "Comment": "A description of my state machine",
+    "StartAt": "T0 : Parallel",
+    "States": {
+      "T0 : Parallel": {
+        "Type": "Parallel",
+        "Branches": [
+          {
+            "StartAt": "T0 Dimension Start Job",
+            "States": {
+              "T0 Dimension Start Job": {
+                "Type": "Task",
+                "Resource": "arn:aws:states:::glue:startJobRun.sync",
+                "Parameters": {
+                  "JobName": "jb_de_enhancement_t0_dimension_d2s"
+                },
+                "Next": "T0 Dimension StartCrawler"
+              },
+              "T0 Dimension StartCrawler": {
+                "Type": "Task",
+                "Parameters": {
+                  "Name": "cr_de_enhancement_t0_dimension"
+                },
+                "Resource": "arn:aws:states:::aws-sdk:glue:startCrawler",
+                "Next": "T0 Dimension GetCrawler"
+              },
+              "T0 Dimension GetCrawler": {
+                "Type": "Task",
+                "Parameters": {
+                  "Name": "cr_de_enhancement_t0_dimension"
+                },
+                "Resource": "arn:aws:states:::aws-sdk:glue:getCrawler",
+                "Next": "T0 Dimension Choice"
+              },
+              "T0 Dimension Choice": {
+                "Type": "Choice",
+                "Choices": [
+                  {
+                    "Variable": "$.Crawler.State",
+                    "StringEquals": "RUNNING",
+                    "Next": "Wait T0 Dimension"
+                  }
+                ],
+                "Default": "Success T0 Dimension"
+              },
+              "Wait T0 Dimension": {
+                "Type": "Wait",
+                "Seconds": 5,
+                "Next": "T0 Dimension GetCrawler"
+              },
+              "Success T0 Dimension": {
+                "Type": "Succeed"
+              }
+            }
+          },
+          {
+            "StartAt": "T0 Fact Start Job",
+            "States": {
+              "T0 Fact Start Job": {
+                "Type": "Task",
+                "Resource": "arn:aws:states:::glue:startJobRun.sync",
+                "Parameters": {
+                  "JobName": "jb_de_enhancement_t0_fact_d2s"
+                },
+                "Next": "T0 Fact StartCrawler"
+              },
+              "T0 Fact StartCrawler": {
+                "Type": "Task",
+                "Parameters": {
+                  "Name": "cr_de_enhancement_t0_fact"
+                },
+                "Resource": "arn:aws:states:::aws-sdk:glue:startCrawler",
+                "Next": "T0 Fact GetCrawler"
+              },
+              "T0 Fact GetCrawler": {
+                "Type": "Task",
+                "Parameters": {
+                  "Name": "cr_de_enhancement_t0_fact"
+                },
+                "Resource": "arn:aws:states:::aws-sdk:glue:getCrawler",
+                "Next": "T0 Fact Choice"
+              },
+              "T0 Fact Choice": {
+                "Type": "Choice",
+                "Choices": [
+                  {
+                    "Variable": "$.Crawler.State",
+                    "StringEquals": "RUNNING",
+                    "Next": "Wait T0 Fact"
+                  }
+                ],
+                "Default": "Success T1 Dimension"
+              },
+              "Wait T0 Fact": {
+                "Type": "Wait",
+                "Seconds": 5,
+                "Next": "T0 Fact GetCrawler"
+              },
+              "Success T1 Dimension": {
+                "Type": "Succeed"
+              }
+            }
+          }
+        ],
+        "Next": "T1 Silver Start Job"
+      },
+      "T1 Silver Start Job": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::glue:startJobRun.sync",
+        "Parameters": {
+          "JobName": "jb_de_enhancement_t1_fulljoin_s2s"
+        },
+        "Next": "T1 Silver StartCrawler"
+      },
+      "T1 Silver StartCrawler": {
+        "Type": "Task",
+        "Parameters": {
+          "Name": "cr_de_enhancement_t1_purchase_all"
+        },
+        "Resource": "arn:aws:states:::aws-sdk:glue:startCrawler",
+        "Next": "T1 Silver GetCrawler"
+      },
+      "T1 Silver GetCrawler": {
+        "Type": "Task",
+        "Parameters": {
+          "Name": "cr_de_enhancement_t1_purchase_all"
+        },
+        "Resource": "arn:aws:states:::aws-sdk:glue:getCrawler",
+        "Next": "T1 Silver Choice"
+      },
+      "T1 Silver Choice": {
+        "Type": "Choice",
+        "Choices": [
+          {
+            "Variable": "$.Crawler.State",
+            "StringEquals": "RUNNING",
+            "Next": "Wait T1 Silver"
+          }
+        ],
+        "Default": "T2 Parallel"
+      },
+      "Wait T1 Silver": {
+        "Type": "Wait",
+        "Seconds": 5,
+        "Next": "T1 Silver GetCrawler"
+      },
+      "T2 Parallel": {
+        "Type": "Parallel",
+        "End": true,
+        "Branches": [
+          {
+            "StartAt": "T2 Mart1 Start Job",
+            "States": {
+              "T2 Mart1 Start Job": {
+                "Type": "Task",
+                "Resource": "arn:aws:states:::glue:startJobRun.sync",
+                "Parameters": {
+                  "JobName": "jb_de_enhancement_t2_salesbyageproducts_s2s"
+                },
+                "Next": "T2 Mart1 StartCrawler"
+              },
+              "T2 Mart1 StartCrawler": {
+                "Type": "Task",
+                "End": true,
+                "Parameters": {
+                  "Name": "cr_de_enhancement_t2_salesbyageproducts"
+                },
+                "Resource": "arn:aws:states:::aws-sdk:glue:startCrawler"
+              }
+            }
+          },
+          {
+            "StartAt": "T2 Mart2 Start Job",
+            "States": {
+              "T2 Mart2 Start Job": {
+                "Type": "Task",
+                "Resource": "arn:aws:states:::glue:startJobRun.sync",
+                "Parameters": {
+                  "JobName": "jb_de_enhancement_t2_salesbycustomer_s2s"
+                },
+                "Next": "T2 Mart2 StartCrawler"
+              },
+              "T2 Mart2 StartCrawler": {
+                "Type": "Task",
+                "End": true,
+                "Parameters": {
+                  "Name": "cr_de_enhancement_t2_salesbycustomer"
+                },
+                "Resource": "arn:aws:states:::aws-sdk:glue:startCrawler"
+              }
+            }
+          },
+          {
+            "StartAt": "T2 Mart3 Start Job",
+            "States": {
+              "T2 Mart3 Start Job": {
+                "Type": "Task",
+                "Resource": "arn:aws:states:::glue:startJobRun.sync",
+                "Parameters": {
+                  "JobName": "jb_de_enhancement_t2_salesbydatetime_s2s"
+                },
+                "Next": "T2 Mart3 StartCrawler"
+              },
+              "T2 Mart3 StartCrawler": {
+                "Type": "Task",
+                "End": true,
+                "Parameters": {
+                  "Name": "cr_de_enhancement_t2_salesbydatetime"
+                },
+                "Resource": "arn:aws:states:::aws-sdk:glue:startCrawler"
+              }
+            }
+          },
+          {
+            "StartAt": "T2 Mart4 Start Job",
+            "States": {
+              "T2 Mart4 Start Job": {
+                "Type": "Task",
+                "Resource": "arn:aws:states:::glue:startJobRun.sync",
+                "Parameters": {
+                  "JobName": "jb_de_enhancement_t2_salesbyresidence_s2s"
+                },
+                "Next": "T2 Mart4 StartCrawler"
+              },
+              "T2 Mart4 StartCrawler": {
+                "Type": "Task",
+                "End": true,
+                "Parameters": {
+                  "Name": "cr_de_enhancement_t2_salesbyresidence"
+                },
+                "Resource": "arn:aws:states:::aws-sdk:glue:startCrawler"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
