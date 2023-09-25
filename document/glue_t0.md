@@ -45,6 +45,9 @@ AWS Glue 에서 Job, Crawler를 실행 시킬 때 필요한 Role 을 사전 생�
 
 ![Untitled]( ../img/Untitled%2018.png)
 
+> 특이사항 : Glue Connection에 문제가 없지만 Glue job을 실행할 때 에러가 발생한다. 그떄는 Glue Connection을 Edit 후 DB 연결 정보 중 사용자/비밀번호 부분을 Secretsmanager로 변경하면 된다 또는 ID/PASSWD를 다시 입력하면 됨.   
+해당 비밀번호는 Secretsmanager 내 `보안 암호 값`에서 확인 가능하다.
+
 ## 5.3 T0, Dimension Data ELT
 
 💡 Glue Job, Crawler 생성

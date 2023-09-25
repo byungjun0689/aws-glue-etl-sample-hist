@@ -68,6 +68,7 @@ YAML : [`basic_architecture_cloudformation.yaml`](img/basic_architecture_cloudfo
     1. Private Subnet에서 S3로 접근하기 위해서 만든 Endpoint
 2. SecretsManager Endpoint
     1. Private Subnet에서 AWS SecretsManager내 리소스 접근을 위해 만든 Endpoint
+    2. `PrivateDnsEnabled` 속성 : True
 
 ## 2.4 보안그룹(Security Group)
 
@@ -80,7 +81,10 @@ YAML : [`basic_architecture_cloudformation.yaml`](img/basic_architecture_cloudfo
 
 ### 2.4.2 Private Security Group
 
-1. Outbound : X
+1. Outbound
+    1. 모든 TCP : 0~65535, Private Security Group으로 Destination으로 설정
+    2. 443 : s3-prefix-id-list ( VPC 관리형 접두사 목록 내 S3 항목 )
+        1. pl-78a54011
 2. Inbound
     1. TCP(5432-PostgreSQL) : Public Security Group ID
         1. Public SG을 사용하는 서비스만 접근 가능(Bastion Host역할)

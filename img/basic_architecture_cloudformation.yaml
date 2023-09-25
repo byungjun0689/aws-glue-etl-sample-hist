@@ -265,6 +265,7 @@ Resources:
     Type: 'AWS::EC2::VPCEndpoint'
     Properties:
       VpcId: !Ref MyVPC
+      PrivateDnsEnabled: true
       VpcEndpointType: 'Interface'
       SubnetIds: 
        - !Ref PrivateSubnet1
@@ -272,8 +273,6 @@ Resources:
       ServiceName: 'com.amazonaws.ap-northeast-2.secretsmanager'
       SecurityGroupIds:
        - !Ref SGForPrivate
-
-      
 
   # Security Group
   ## Public SG, Bastion Host
@@ -330,7 +329,18 @@ Resources:
       SourceSecurityGroupId: !GetAtt SGForPrivate.GroupId
       Description: Internal Network in Private Subnets
 
-  
+  SGForPrivateInternalOutboundNetwork:
+    Type: AWS::EC2::SecurityGroupEgress
+    DependsOn: 
+      - SGForPrivate
+      - SGForPublic
+    Properties:
+      GroupId: !Ref SGForPrivate
+      IpProtocol: tcp
+      FromPort : 0
+      ToPort : 65535
+      SourceSecurityGroupId: !GetAtt SGForPrivate.GroupId
+      Description: Internal Network in Private Subnets Outbound
 
   #EC2(Bastion Host)
   EC2forBastionHost:
@@ -401,65 +411,65 @@ Resources:
       TargetType: AWS::RDS::DBInstance
 
   # S3
-  # DEBucket:
-  #   Type: AWS::S3::Bucket
-  #   Properties:
-  #     BucketName: !Join
-  #       - '' # delimiter
-  #       - - ds-enhancement-
-  #         - !Ref AWS::AccountId
+  DEBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Join
+        - '' # delimiter
+        - - ds-enhancement-
+          - !Ref AWS::AccountId
 
-  # BucketLambdaFunction:
-  #   Type: AWS::Lambda::Function
-  #   Properties:
-  #     FunctionName: DE_MyS3ObjectCreator
-  #     Runtime: python3.8
-  #     Handler: index.handler
-  #     Role: !GetAtt CreateBucketMyLambdaRole.Arn
-  #     Code:
-  #       ZipFile: !Sub |
-  #         import boto3
+  BucketLambdaFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: DE_MyS3ObjectCreator
+      Runtime: python3.8
+      Handler: index.handler
+      Role: !GetAtt CreateBucketMyLambdaRole.Arn
+      Code:
+        ZipFile: !Sub |
+          import boto3
 
-  #         def handler(event, context):
-  #             #s3 = boto3.resource('s3')
-  #             # Create objects inside the bucket
-  #             #s3.Object('${DEBucket}', 'folder1/file1.txt').put(Body='Content of file1.txt')
-  #             #s3.Object('${DEBucket}', 'folder2/subfolder/file2.txt').put(Body='Content of file2.txt')
-  #             #s3.Object('${DEBucket}', 'folder2/file3.txt').put(Body='Content of file3.txt')
+          def handler(event, context):
+              #s3 = boto3.resource('s3')
+              # Create objects inside the bucket
+              #s3.Object('${DEBucket}', 'folder1/file1.txt').put(Body='Content of file1.txt')
+              #s3.Object('${DEBucket}', 'folder2/subfolder/file2.txt').put(Body='Content of file2.txt')
+              #s3.Object('${DEBucket}', 'folder2/file3.txt').put(Body='Content of file3.txt')
               
-  #             # Create Folder in inside the bucket
-  #             s3 = boto3.client('s3')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'glue/script/')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'glue/temp/')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'glue/logs/')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'athena_result/')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'data/demension/')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'data/fact/')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'data/fact/bronze/')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'data/fact/silver/')
-  #             s3.put_object(Bucket='${DEBucket}', Key = 'data/fact/gold/')
+              # Create Folder in inside the bucket
+              s3 = boto3.client('s3')
+              s3.put_object(Bucket='${DEBucket}', Key = 'glue/script/')
+              s3.put_object(Bucket='${DEBucket}', Key = 'glue/temp/')
+              s3.put_object(Bucket='${DEBucket}', Key = 'glue/logs/')
+              s3.put_object(Bucket='${DEBucket}', Key = 'athena_result/')
+              s3.put_object(Bucket='${DEBucket}', Key = 'data/demension/')
+              s3.put_object(Bucket='${DEBucket}', Key = 'data/fact/')
+              s3.put_object(Bucket='${DEBucket}', Key = 'data/fact/bronze/')
+              s3.put_object(Bucket='${DEBucket}', Key = 'data/fact/silver/')
+              s3.put_object(Bucket='${DEBucket}', Key = 'data/fact/gold/')
 
 
-  # CreateBucketMyLambdaRole:
-  #   Type: AWS::IAM::Role
-  #   Properties:
-  #     RoleName: 'DE-CF-CreateBucket-Role'
-  #     AssumeRolePolicyDocument:
-  #       Version: '2012-10-17'
-  #       Statement:
-  #         - Effect: Allow
-  #           Principal:
-  #             Service: lambda.amazonaws.com
-  #           Action: sts:AssumeRole
-  #     Policies:
-  #       - PolicyName: S3ObjectCreatorPolicy
-  #         PolicyDocument:
-  #           Version: '2012-10-17'
-  #           Statement:
-  #             - Effect: Allow
-  #               Action:
-  #                 - 's3:PutObject'
-  #               Resource: !Sub 'arn:aws:s3:::${DEBucket}/*'
+  CreateBucketMyLambdaRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: 'DE-CF-CreateBucket-Role'
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: sts:AssumeRole
+      Policies:
+        - PolicyName: S3ObjectCreatorPolicy
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - 's3:PutObject'
+                Resource: !Sub 'arn:aws:s3:::${DEBucket}/*'
 
   # Glue
   ## Glue Role
